@@ -2,11 +2,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
-# 👨‍💻 Olá!  Bem-vindos ao meu repositório público. <br> 
+# 👨🏽‍💻 Olá!  Bem-vindos ao meu repositório público. <br> 
 
 <p>
   Meu nome é Thiago Maciel e sou estudante de tecnologia. <br>
-  Este perfil é destinado para projetos pessoais, usando como pertifólio.<br>
+  Este perfil é destinado para projetos pessoais, usando como portifólio.<br>
   Para acompanhar minha trajetória no curso de programação e as linguagens que 
   estou estudando, <a href="https://github.com/macielthiago" target="_blank">acessar</a> aqui <br>
   meu perfil secundário de estudante.
