@@ -4,36 +4,32 @@
 
 # 👨🏽‍💻 Olá!  Bem-vindos ao meu repositório público. <br> 
 
-<p>
-  Meu nome é Thiago Maciel e sou estudante de tecnologia. <br>
-  Este perfil é destinado para projetos pessoais, usando como portifólio.<br>
-  Para acompanhar minha trajetória no curso de programação e as linguagens que 
-  estou estudando, <a href="https://github.com/macielthiago" target="_blank">acessar</a> aqui <br>
-  meu perfil secundário de estudante.
-</p>
+<h3>
+  Meu nome é Thiago Maciel e sou estudante de TI. <br>
+  Perfil criado para mostrar minha trajetória no curso de Ciência da Computação <br>
+</h3>
 
 <hr>
 <br><br>
-<img width=12% align="left" src="https://komarev.com/ghpvc/?username=Thiago-Rosari&color=0000FF"><br>
+<img width=15% align="rigth" src="https://komarev.com/ghpvc/?username=Thiago-Rosari&color=0000FF"><br>
+
 
 <div align="center">
-  <br>
-  <a href="#">
-    <img height="170rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thiago-Rosari&show_icons=true&title_color=005acc&icon_color=007acc&text_color=005acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
-  </a>
-  <a href="#">
-    <img height="170rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Rosari&langs_count=6&layout=compact&title_color=005acc&icon_color=007acc&text_color=005acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Rosari&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Rosari&layout=compact&theme=midnight-purple"/>
 </div>
 
 ##  Habilidades principais:
 <div style="display: inline_block"><br>
-  <img alt="Cpp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Qt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
-  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img alt="Cpp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+   <img alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img alt="Qt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
 </div>
 
 ### Minhas redes sociais:
