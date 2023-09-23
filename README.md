@@ -2,9 +2,9 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009acc&height=120&section=header"/>
 </a>
 
-# 👨🏽‍💻 Olá!  Bem-vindos ao meu repositório público. <br> 
+<h1 color="white"> 👨🏽‍💻 Olá!  Bem-vindos ao meu repositório público.</h1> <br> 
 
-<h3>
+<h3 color="white">
   Meu nome é Thiago Maciel e sou estudante de TI. <br>
   Perfil criado para mostrar minha trajetória no curso de Ciência da Computação <br>
 </h3>
