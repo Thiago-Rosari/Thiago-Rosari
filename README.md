@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009acc&height=120&section=header"/>
 </a>
 
 # 👨🏽‍💻 Olá!  Bem-vindos ao meu repositório público. <br> 
@@ -38,5 +38,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thiago.maci)
 <br>
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009acc&height=120&section=footer"/>
 </a>
