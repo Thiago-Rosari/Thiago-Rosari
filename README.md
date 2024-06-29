@@ -8,11 +8,12 @@
   Meu nome é Thiago Maciel e sou estudante de TI. <br>
   Perfil criado para mostrar minha trajetória no curso de Ciência da Computação <br>
 </h3>
-
 <hr>
+<!--
 <br><br>
 <img width=15% align="rigth" src="https://komarev.com/ghpvc/?username=Thiago-Rosari&color=0000FF"><br>
-
+-->
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Rosari&show_icons=true&theme=midnight-purple"/>
